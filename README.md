@@ -3,6 +3,8 @@
 
 This project is a Retrieval-Augmented Generation (RAG) system built using Llama 3, LangChain, ChromaDB, and Gradio, all within Google Colab. This setup allows for efficient rapid prototyping and testing of complex AI systems without the need for extensive local hardware resources.
 
+![gradio LLM-RAG testing interface](imageRag.jpeg)
+
 ## Technologies Used
 
 ### Llama 3
